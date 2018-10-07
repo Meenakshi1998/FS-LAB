@@ -1,0 +1,35 @@
+UNIT – 1
+Introduction : File Structures: The Heart of the file structure Design, A Short History of File
+Structure Design, A Conceptual Toolkit; Fundamental File Operations: Physical Files and
+Logical Files, Opening Files, Closing Files, Reading and Writing, Seeking, Special Characters,
+The Unix Directory Structure, Physical devices and Logical Files, File-related Header Files,
+UNIX file System Commands; Secondary Storage and System Software: Disks, Magnetic Tape,
+Disk versus Tape; CD-ROM: Introduction, Physical Organization, Strengths and Weaknesses;
+Storage as Hierarchy, A journey of a Byte, Buffer Management, Input /Output in UNIX.
+
+UNIT – 2 
+Fundamental File Structure Concepts, Managing Files of Records : Field and Record
+Organization, Using Classes to Manipulate Buffers, Using Inheritance for Record Buffer Classes,
+Managing Fixed Length, Fixed Field Buffers, An Object-Oriented Class for Record Files,
+Record Access, More about Record Structures, Encapsulating Record Operations in a Single
+Class, File Access and File Organization.
+UNIT – 3 
+Organization of Files for Performance, Indexing : Data Compression, Reclaiming Space in
+files, Internal Sorting and Binary Searching, Keysorting; What is an Index? A Simple Index for
+Entry-Sequenced File, Using Template Classes in C++ for Object I/O, Object-Oriented support
+for Indexed, Entry-Sequenced Files of Data Objects, Indexes that are too large to hold in
+Memory, Indexing to provide access by Multiple keys, Retrieval Using Combinations of
+Secondary Keys, Improving the Secondary Index structure: Inverted Lists, Selective indexes,
+Binding.
+UNIT - 4
+Cosequential Processing and the Sorting of Large Files : A Model for Implementing
+Cosequential Processes, Application of the Model to a General Ledger Program, Extension of the
+Model to include Mutiway Merging, A Second Look at Sorting in Memory, Merging as a Way of
+Sorting Large Files on Disk.
+UNIT - 5
+Multi-Level Indexing and B-Trees : The invention of B-Tree, Statement of the problem,
+Indexing with Binary Search Trees; Multi-Level Indexing, BTrees, Example of Creating a BTree,
+An Object-Oriented Representation of B-Trees, B-Tree Methods; Nomenclature, Formal
+Definition of B-Tree Properties, Worst-case Search Depth, Deletion, Merging and
+Redistribution, Redistribution during insertion; B* Trees, Buffering of pages; Virtual BTrees;
+Variable-length Records and keys.
